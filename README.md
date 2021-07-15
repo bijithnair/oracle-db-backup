@@ -1,1 +1,1 @@
-# oracle-db-backup
+AWS Crash consistent backups for Oracle DB
