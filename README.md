@@ -1,1 +1,2 @@
-AWS Crash consistent backups for Oracle DB
+* Automating snapshot based Crash consistent backups for Oracle DB
+* Added retention code 
